@@ -1,0 +1,17 @@
+# Omega OM-92 Logger 
+
+# Configuration :
+DeviceID,7286
+LoggingStart,Button Press
+LoggingStartTime,08.23 12:16:00
+LoggingInterval,1 min
+TemperatureLoggingEnable,true
+TemperatureAlarmThresholdHigh,nan
+TemperatureAlarmThresholdLow,nan
+HumidityLoggingEnable,true
+HumidityAlarmThresholdHigh,nan
+HumidityAlarmThresholdLow,nan
+Celcius/Fahrenheit,Celcius
+
+,,# Sample Info :,,,,#Plot 
+,,Data No,Date,Time,,Date/Time,Temperature,Humidity,DewPoint
